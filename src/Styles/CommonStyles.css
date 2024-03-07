@@ -1,0 +1,15 @@
+.mainContainer{
+    display: flex;
+    gap: 150px;
+}
+label{
+    display: inline-block;
+    width: 100px;
+}
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+td,th{
+    padding: 5px;
+}
